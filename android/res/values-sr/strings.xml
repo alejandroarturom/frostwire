@@ -720,4 +720,5 @@
     <string name="title_activity_transfer_detail">Детаљи преноса</string>
     <string name="piece_size_header">Величина комада:</string>
     <string name="add_tracker">Додај траку</string>
+    <string name="play_store_out_of_sync">Плаи Сторе мора да се синхронизује, сачекајте неколико минута</string>
 </resources>
